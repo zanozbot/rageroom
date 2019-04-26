@@ -1,0 +1,61 @@
+{
+	"files": {
+		"style.less": {
+			"engines": [
+				{
+					"compiler": "less",
+					"output": "../css/style.css",
+					"options": {
+						"compress": false,
+						"ieCompat": false,
+						"strictMath": false,
+						"strictUnits": false,
+						"javascriptEnabled": false,
+						"sourceMap": true
+					}
+				}
+			],
+			"sources": [
+				"base/base.less",
+				"base/intro.less",
+				"base/mixins.less",
+				"base/reset.less",
+				"base/vars.less",
+				"layout/background.less",
+				"layout/buttons.less",
+				"layout/color.less",
+				"layout/columns.less",
+				"layout/forms.less",
+				"layout/helpers.less",
+				"layout/icons.less",
+				"layout/list.less",
+				"layout/media.less",
+				"layout/typography.less",
+				"module/action.less",
+				"module/blog.less",
+				"module/clients.less",
+				"module/contact.less",
+				"module/device.less",
+				"module/featured.less",
+				"module/footer.less",
+				"module/header.less",
+				"module/heading.less",
+				"module/hero.less",
+				"module/intro.less",
+				"module/media.less",
+				"module/page-title.less",
+				"module/portfolio.less",
+				"module/pricing.less",
+				"module/skills.less",
+				"module/subscription.less",
+				"module/tabs.less",
+				"module/team.less",
+				"module/testimonials.less",
+				"module/timeline.less",
+				"state/custom.less",
+				"state/responsive.less",
+				"theme/theme-default.less"
+			]
+		}
+	}
+}
