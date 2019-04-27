@@ -1207,7 +1207,6 @@ p {
 	border: none;
 	border-radius: 50px;
 	height: 46px;
-	width: 370px;
 	padding: 0 25px;
 }
 
@@ -5331,4 +5330,31 @@ li a:hover,
 
 .device-demo:hover h2 {
 	color: #e74c3c;
+}
+
+.logo > i {
+  color: white;
+  font-size: 2rem;
+}
+
+.hero-next > a > i {
+  font-size: 2rem;
+}
+
+.hero-content > h1 {
+  font-size: 5rem;
+  margin-bottom: 0.2rem;
+}
+
+.popup-video > i {
+  display: block;
+  font-size: 3rem !important;
+}
+
+.hero-content > p.email-clar {
+  font-size: 13px;
+}
+
+.hero-content > .form-action > form {
+  margin-bottom: 0.5rem;
 }
