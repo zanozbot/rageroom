@@ -5358,3 +5358,20 @@ li a:hover,
 .hero-content > .form-action > form {
   margin-bottom: 0.5rem;
 }
+
+.entry-img {
+  background: #069edb;
+  padding: 1rem;
+}
+
+.partner-img {
+  margin: auto;
+}
+
+.partner-heading {
+  margin-bottom: 3rem;
+}
+
+footer {
+  padding: 0
+}
