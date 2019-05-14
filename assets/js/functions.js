@@ -97,7 +97,7 @@
     iframe: {
       markup: '<div class="mfp-iframe-scaler">' +
         '<div class="mfp-close"></div>' +
-        '<iframe class="mfp-iframe" frameborder="0" allowfullscreen></iframe>' +
+        '<iframe width="560" height="315" src="https://www.youtube.com/embed/ewFUkNMoFLU?autoplay=1" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>' +
         '</div>',
       patterns: {
         youtube: {
