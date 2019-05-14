@@ -9,6 +9,11 @@
   font-style: normal;
 }
 
+a > i {
+  color: white !important;
+  font-size: 2rem !important;
+}
+
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'rageroom' !important;
