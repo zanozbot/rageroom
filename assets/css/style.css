@@ -148,7 +148,7 @@ html {
 
 body {
 	background-color: #ffffff;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 14px;
 	font-weight: 400;
 	color: #999999;
@@ -323,7 +323,7 @@ h6,
 .h5,
 .h6 {
 	color: #2c3e50;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-weight: 700;
 	margin: 0 0 20px 0;
 	line-height: 1.5;
@@ -367,7 +367,7 @@ h6,
 }
 
 p {
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	color: #999999;
 	font-size: 13px;
 	font-weight: 400;
@@ -494,11 +494,11 @@ p {
 }
 
 .text-font-heading {
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 }
 
 .text-font-body {
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 }
 
 .text-white {
@@ -1114,7 +1114,7 @@ p {
 .btn {
 	position: relative;
 	z-index: 2;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 14px;
 	font-weight: 600;
 	text-transform: uppercase;
@@ -1180,7 +1180,7 @@ p {
 \*------------------------------------*/
 .form-control {
 	color: #999999;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 16px;
 	font-weight: 300;
 	line-height: 46px;
@@ -1344,7 +1344,7 @@ p {
 	line-height: 42px;
 	vertical-align: middle;
 	float: right;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 16px;
 	font-weight: 400;
 	background-color: #e74c3c;
@@ -1458,7 +1458,7 @@ p {
 .cta-2 blockquote .quote-content {
 	position: relative;
 	color: #999999;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 20px;
 	font-weight: 300;
 	font-style: italic;
@@ -1508,7 +1508,7 @@ p {
 
 .cta-2 .quote-author .quote-author-bio h4 {
 	color: #2c3e50;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 14px;
 	font-weight: 400;
 	line-height: 1;
@@ -1518,7 +1518,7 @@ p {
 
 .cta-2 .quote-author .quote-author-bio p {
 	color: #999999;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 14px;
 	font-weight: 300;
 	font-style: italic;
@@ -1532,7 +1532,7 @@ p {
 }
 
 .cta-2 .cta-form h3 {
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 18px;
 	font-weight: 300;
 	line-height: 28px;
@@ -1591,7 +1591,7 @@ p {
 	position: relative;
 	display: inline-block;
 	z-index: 2;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	color: #ffffff;
 	text-transform: capitalize;
 	border-radius: 50px;
@@ -1839,7 +1839,7 @@ p {
 
 .media-4 p {
 	color: #ffffff;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 1.5rem;
 	font-weight: 300;
 	line-height: 27px;
@@ -1913,7 +1913,7 @@ p {
 }
 
 .pricing .price-table .panel-heading h4 {
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 13px;
 	font-weight: 300;
 	line-height: 1;
@@ -1922,7 +1922,7 @@ p {
 }
 
 .pricing .price-table .panel-heading p {
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 80px;
 	font-weight: 700;
 	line-height: 80px;
@@ -1942,7 +1942,7 @@ p {
 
 .pricing .price-table .panel-body p {
 	color: #999999;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 16px;
 	font-weight: 300;
 	line-height: 27px;
@@ -2083,7 +2083,7 @@ footer {
 }
 
 .footer-1 .contact-form p {
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 18px;
 	font-weight: 400;
 	line-height: 30px;
@@ -2111,7 +2111,7 @@ footer {
 /* Footer#2 */
 .footer .widget-contact-info {
 	color: #2c3e50;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 18px;
 	font-weight: 300;
 	line-height: 1;
@@ -2140,7 +2140,7 @@ footer {
 
 .footer .widget-copyright p {
 	color: white;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 14px;
 	font-weight: 300;
 	line-height: 1;
@@ -2184,7 +2184,7 @@ footer {
 }
 
 .footer-5 .widget-info-box h4 {
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 14px;
 	font-weight: 600;
 	line-height: 1;
@@ -2228,7 +2228,7 @@ footer {
 
 .footer-6 .footer-subs p {
 	color: #ffffff;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 18px;
 	font-weight: 300;
 	line-height: 30px;
@@ -2249,7 +2249,7 @@ footer {
 
 .footer-7 .widget-counter .counter {
 	color: #2c3e50;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 30px;
 	font-weight: 400;
 	line-height: 1;
@@ -2258,7 +2258,7 @@ footer {
 
 .footer-7 .widget-counter h4 {
 	color: #999999;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 13px;
 	font-weight: 300;
 	line-height: 26px;
@@ -2319,7 +2319,7 @@ footer {
 
 .featured .featured-content h3 {
 	color: #2c3e50;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 18px;
 	font-weight: 700;
 	line-height: 1;
@@ -2329,7 +2329,7 @@ footer {
 
 .featured .featured-content p {
 	color: black;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 1.5rem;
 	font-weight: 300;
 	line-height: 25px;
@@ -2453,7 +2453,7 @@ footer {
 
 .featured-6 .heading h2 {
 	color: #2c3e50;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 32px;
 	font-weight: 700;
 	line-height: 32px;
@@ -2463,7 +2463,7 @@ footer {
 
 .featured-6 .heading p {
 	color: #999;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 20px;
 	font-weight: 300;
 	line-height: 30px;
@@ -2573,7 +2573,7 @@ footer {
 
 .team .heading p {
 	color: #999;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 18px;
 	font-weight: 400;
 	line-height: 30px;
@@ -2643,7 +2643,7 @@ footer {
 
 .team-2 .team-member .member-info .member-job {
 	color: #999999;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 14px;
 	font-style: italic;
 	line-height: 1;
@@ -2653,7 +2653,7 @@ footer {
 .team-2 .team-member .member-info .member-social a {
 	margin-left: 8px;
 	color: #999999;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 }
 
 .team-2 .team-member .member-info .member-social a:hover {
@@ -2662,7 +2662,7 @@ footer {
 
 .team-2 .team-member .member-info .member-bio {
 	color: #999999;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 14px;
 	font-weight: 300;
 	line-height: 24px;
@@ -2688,7 +2688,7 @@ footer {
 
 .team-3 .team-member .member-info .member-job {
 	color: #999999;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 14px;
 	font-style: italic;
 	line-height: 1;
@@ -2697,7 +2697,7 @@ footer {
 
 .team-3 .team-member .member-info .member-bio {
 	color: #999999;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 14px;
 	font-weight: 300;
 	line-height: 24px;
@@ -2785,7 +2785,7 @@ footer {
 
 .heading p {
 	color: #999;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 18px;
 	font-weight: 300;
 	line-height: 30px;
@@ -2862,7 +2862,7 @@ footer {
 
 .portfolio-filter ul li a {
 	font-size: 16px;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	text-transform: capitalize;
 	color: #999999;
 	font-weight: 400;
@@ -2924,7 +2924,7 @@ footer {
 
 .portfolio-hover h6 {
 	color: #ffffff;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 14px;
 	font-weight: 300;
 	line-height: 1;
@@ -2932,7 +2932,7 @@ footer {
 }
 
 .portfolio-hover h4 {
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 24px;
 	font-weight: 400;
 	line-height: 1;
@@ -3013,7 +3013,7 @@ footer {
 
 .testimonials-1 .testimonial-content p {
 	color: #999999;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 24px;
 	font-weight: 300;
 	line-height: 38px;
@@ -3022,7 +3022,7 @@ footer {
 
 .testimonials-1 .testimonial-meta h4 {
 	color: #2c3e50;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 16px;
 	font-weight: 700;
 	line-height: 38px;
@@ -3079,7 +3079,7 @@ footer {
 
 .testimonials-2 .testimonial-meta p {
 	color: #2c3e50;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 14px;
 	font-weight: 300;
 	line-height: 1;
@@ -3088,7 +3088,7 @@ footer {
 }
 
 .testimonials-2 .testimonial-content p {
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 14px;
 	font-weight: 300;
 	line-height: 24px;
@@ -3113,7 +3113,7 @@ footer {
 
 .testimonials-3 .testimonial-content p {
 	color: #999999;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 24px;
 	font-weight: 300;
 	line-height: 38px;
@@ -3128,7 +3128,7 @@ footer {
 
 .testimonials-3 .testimonial-meta h4 {
 	color: #2c3e50;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 18px;
 	font-weight: 400;
 	line-height: 1;
@@ -3138,7 +3138,7 @@ footer {
 
 .testimonials-3 .testimonial-meta p {
 	color: #999999;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 13px;
 	font-weight: 300;
 	line-height: 1;
@@ -3195,7 +3195,7 @@ footer {
 
 .testimonials-4 .testimonial-content p {
 	color: #999999;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 30px;
 	font-weight: 300;
 	line-height: 50px;
@@ -3204,7 +3204,7 @@ footer {
 
 .testimonials-4 .testimonial-meta h4 {
 	color: #2c3e50;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 18px;
 	font-weight: 700;
 	line-height: 1;
@@ -3214,7 +3214,7 @@ footer {
 
 .testimonials-4 .testimonial-meta p {
 	color: #999999;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 12px;
 	font-weight: 300;
 	line-height: 1;
@@ -3245,7 +3245,7 @@ footer {
 
 .testimonials-5 .testimonial-content p {
 	color: #999999;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 16px;
 	font-weight: 300;
 	line-height: 28px;
@@ -3255,7 +3255,7 @@ footer {
 
 .testimonials-5 .testimonial-meta h4 {
 	color: #2c3e50;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 14px;
 	font-weight: 700;
 	line-height: 1;
@@ -3265,7 +3265,7 @@ footer {
 
 .testimonials-5 .testimonial-meta p {
 	color: #999999;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 12px;
 	font-weight: 300;
 	line-height: 1;
@@ -3291,7 +3291,7 @@ footer {
 
 .testimonials-6 .testimonial-content p {
 	color: #999999;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 24px;
 	font-weight: 300;
 	line-height: 38px;
@@ -3327,7 +3327,7 @@ footer {
 
 .testimonials-6 .testimonial-meta h4 {
 	color: #2c3e50;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 22px;
 	font-weight: 400;
 	line-height: 1;
@@ -3339,7 +3339,7 @@ footer {
 
 .testimonials-6 .testimonial-meta p {
 	color: #999999;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 12px;
 	font-weight: 300;
 	line-height: 1;
@@ -3581,7 +3581,7 @@ footer {
 
 .skills .progress-title .title {
 	color: #2c3e50;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 18px;
 	font-weight: 400;
 }
@@ -3589,7 +3589,7 @@ footer {
 .skills .progress-title .value {
 	float: right;
 	color: #2c3e50;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 18px;
 	font-weight: 300;
 }
@@ -3664,7 +3664,7 @@ footer {
 }
 
 .page-title h2 {
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 70px;
 	font-weight: 700;
 	line-height: 55px;
@@ -3715,7 +3715,7 @@ footer {
 
 .navbar-nav li a {
 	font-size: 16px;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	text-transform: capitalize;
 	font-weight: 400;
 }
@@ -3976,7 +3976,7 @@ li a:hover,
 
 .hero-1 p {
 	color: #ffffff;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 22px;
 	font-weight: 300;
 	line-height: 38px;
@@ -4033,7 +4033,7 @@ li a:hover,
 
 .hero-2 p {
 	color: #ffffff;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 26px;
 	font-weight: 400;
 	line-height: 38px;
@@ -4122,7 +4122,7 @@ li a:hover,
 
 .hero-3 p {
 	color: #ffffff;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 26px;
 	font-weight: 400;
 	line-height: 38px;
@@ -4163,7 +4163,7 @@ li a:hover,
 
 .hero-4 p {
 	color: #ffffff;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 1.5rem;
 	font-weight: 300;
 	line-height: 38px;
@@ -4208,7 +4208,7 @@ li a:hover,
 
 .hero-5 p {
 	color: #ffffff;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 24px;
 	font-weight: 400;
 	line-height: 36px;
@@ -4217,7 +4217,7 @@ li a:hover,
 
 .hero-5 .credit {
 	color: #ffffff;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 16px;
 	font-weight: 300;
 	line-height: 38px;
@@ -4266,7 +4266,7 @@ li a:hover,
 
 .hero-6 p {
 	color: #ffffff;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 18px;
 	font-weight: 300;
 	line-height: 36px;
@@ -4280,7 +4280,7 @@ li a:hover,
 
 .hero-7 p {
 	color: #ffffff;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 16px;
 	font-weight: 400;
 	line-height: 1;
@@ -4344,7 +4344,7 @@ li a:hover,
 
 .hero-8 p {
 	color: #999999;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 18px;
 	font-weight: 300;
 	line-height: 28px;
@@ -4381,7 +4381,7 @@ li a:hover,
 
 .hero-9 p {
 	color: #ffffff;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 18px;
 	font-weight: 400;
 	line-height: 28px;
@@ -4405,7 +4405,7 @@ li a:hover,
 	font-size: 16px;
 	font-weight: 300;
 	line-height: 1;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	color: #999999;
 }
 
@@ -4623,7 +4623,7 @@ li a:hover,
 
 .blog .entry .entry-content .entry-meta {
 	color: #999999;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 1rem;
 	font-weight: 400;
 	line-height: 1;
@@ -4633,7 +4633,7 @@ li a:hover,
 
 .blog .entry .entry-content h3 {
 	color: #2c3e50;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 20px;
 	font-weight: 700;
 	line-height: 32px;
@@ -4642,7 +4642,7 @@ li a:hover,
 
 .blog .entry .entry-content p {
 	color: black;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 1.5rem;
 	font-weight: 300;
 	line-height: 23px;
@@ -4691,7 +4691,7 @@ li a:hover,
 
 .tabs .tab-content p {
 	color: #999999;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 20px;
 	font-weight: 300;
 	line-height: 30px;
@@ -4777,7 +4777,7 @@ li a:hover,
 
 .device-2 .featured-content h3 {
 	color: #2c3e50;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 20px;
 	font-weight: 400;
 	line-height: 1;
@@ -4786,7 +4786,7 @@ li a:hover,
 
 .device-2 .featured-content p {
 	color: #999999;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 16px;
 	font-weight: 300;
 	line-height: 25px;
@@ -4909,7 +4909,7 @@ li a:hover,
 	background: -webkit-linear-gradient(#e74c3c 0%, #9b59b6 100%);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 24px;
 	font-weight: 300;
 	line-height: 32px;
@@ -5004,7 +5004,7 @@ li a:hover,
 	border: 2px solid #e0e0e0;
 	border-radius: 50px;
 	color: #2c3e50;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 14px;
 	font-weight: 700;
 	line-height: 35px;
@@ -5109,7 +5109,7 @@ li a:hover,
 
 .timeline-tab .tab-content p {
 	color: #999999;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 20px;
 	font-weight: 300;
 	line-height: 30px;
@@ -5145,7 +5145,7 @@ li a:hover,
 	border: none;
 	border-radius: 0;
 	padding: 0;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 12px;
 	font-weight: 400;
 	line-height: 43px;
@@ -5235,7 +5235,7 @@ li a:hover,
 
 .timeline-content .event {
 	color: #2c3e50;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 22px;
 	font-weight: 400;
 	line-height: 22px;
@@ -5244,7 +5244,7 @@ li a:hover,
 
 .timeline-content .date {
 	color: #999999;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 18px;
 	font-weight: 400;
 	line-height: 1;
