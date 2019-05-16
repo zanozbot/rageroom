@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en-US">
 
+<script src="bower_components/snackbar/dist/snackbar.js"></script>
+<script src="assets/js/mailchimp.js"></script>
+
 <head>
   <!-- Document Meta
     ============================================= -->
@@ -84,6 +87,7 @@
                     <input type="text" class="form-control" name="MERGE0" id="MERGE0" placeholder="Tvoj email*">
                     <button type="submit" class="btn btn-primary">OBVESTI ME O ODPRTJU</button>
                   </form>
+                  <button class="waves-effect waves-light btn snackbar" data-pos="top-left" onclick="showSnackbar()">Top Left</button>
                 </div>
                 <p class="email-clar">*Pusti nam svoj email, da te obvestimo takoj, ko se odpre prvi RAGE Room.
                 </p>
