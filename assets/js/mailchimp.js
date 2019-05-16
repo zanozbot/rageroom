@@ -16,12 +16,12 @@ function showSnackbar() {
     showAction = false;
 
   Snackbar.show({
-    text: 'Welcome! Thanks for checking out Snackbar',
+    text: 'Hvala za registracijo.',
     showAction: showAction,
     actionText: actionText,
     actionTextColor: actionColor,
     backgroundColor: '#232323',
     width: 'auto',
-    pos: pos
+    pos: 'bottom-center'
   });
 }
