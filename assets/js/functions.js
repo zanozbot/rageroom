@@ -1,21 +1,3 @@
-/*global jQuery */
-/* Contents
-// ------------------------------------------------>
-	1.  Loading Screen
-	2.  HEADER AFFIX
-	3.  HEADER One Page
-	4.  Smoothly Scroll To
-	5.  Background
-	6.  Counter Up
-	7.  MAGNIFIC POPUP
-	8.  POPUP VIDEO
-	9.  GALLERY CAROUSEL
-	10. TESTIMONIAL CAROUSEL
-	11. Ajax Mailchimp
-	12. Ajax Campaignmonitor
-	13. Ajax Contact Form
-	14. Qnatity of Devices
-*/
 (function ($) {
   "use strict";
 
@@ -109,21 +91,5 @@
       srcAction: 'iframe_src',
     }
   });
-
-  /* ------------------  11.Ajax Mailchimp  ------------------ */
-
-  $('#mailchimp').ajaxChimp({
-    url: "http://wplly.us5.list-manage.com/subscribe/post?u=91b69df995c1c90e1de2f6497&amp;id=aa0f2ab5fa", //Replace with your own mailchimp Campaigns URL.
-    callback: chimpCallback
-  });
-
-  function chimpCallback(resp) {
-    if (resp.result === 'success') {
-      $('.subscribe-alert').html('<h5 class="alert alert-success">' + resp.msg + '</h5>').fadeIn(1000);
-      //$('.subscribe-alert').delay(6000).fadeOut();
-    } else if (resp.result === 'error') {
-      $('.subscribe-alert').html('<h5 class="alert alert-danger">' + resp.msg + '</h5>').fadeIn(1000);
-    }
-  }
 
 }(jQuery));
