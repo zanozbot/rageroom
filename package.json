@@ -1,0 +1,19 @@
+{
+  "name": "rageroom-landing-page",
+  "version": "0.0.1",
+  "description": "RAGE Room landing page",
+  "scripts": {
+    "build": "npm run-script clean && cp -r assets dist && cp index.html dist",
+    "clean": "rm -r dist && mkdir dist || mkdir dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zanozbot/rageroom-landing-page.git"
+  },
+  "author": "RAGE Room",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zanozbot/rageroom-landing-page/issues"
+  },
+  "homepage": "https://github.com/zanozbot/rageroom-landing-page#readme"
+}
