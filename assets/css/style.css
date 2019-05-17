@@ -294,7 +294,7 @@ p {
 	font-weight: 600;
 	text-transform: uppercase;
 	text-align: center;
-	border-radius: 50px;
+	border-radius: 0.3rem;
 	padding: 0;
 	width: 200px;
 	height: 46px;
@@ -326,7 +326,7 @@ p {
 	font-weight: 300;
 	background-color: #f2f2f2;
 	border: none;
-	border-radius: 50px;
+	border-radius: 0.3rem;
 	height: 46px;
 	padding: 0 25px;
 }
@@ -359,7 +359,7 @@ p {
   background-color: #ffffff;
   border-radius: 50%;
 	border: none;
-	color: #2c3e50;
+	color: black;
 	width: 85px;
   height: 85px;
   line-height: 85px;
@@ -507,6 +507,27 @@ footer {
   line-height: 94px;
 }
 
+.navbar .container {
+  display: flex;
+  align-items: center;
+}
+
+.navbar .container .spacer {
+  flex: 1;
+}
+
+.navbar .container .coming-soon {
+  text-transform: uppercase;
+  color: white;
+}
+
+.navbar .container .coming-soon span {
+  color: black;
+  background: #F7EC13;
+  padding: 0.3rem 0.5rem;
+  border-radius: 0.3rem;
+}
+
 .hero {
 	height: auto /*780px*/;
 }
@@ -650,10 +671,15 @@ footer {
 }
 
 .popup-video > i {
+  transition: all 250ms ease;
   background-color: #F7EC13 !important;
   display: block;
   font-size: 3rem !important;
   margin: auto;
+}
+
+.popup-video > i:hover {
+  background-color: #72c044 !important;
 }
 
 .hero-content > p.email-clar {
@@ -696,7 +722,10 @@ footer {
 }
 
 span.focus.dark {
-  color: #F7EC13;
+  padding: 0.2rem 0.5rem;
+  background: #F7EC13;
+  color: black;
+  border-radius: 0.3rem;
 }
 
 p {
