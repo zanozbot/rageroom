@@ -222,7 +222,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-	color: #2c3e50;
+	color: black;
 	font-family: 'Rubik', sans-serif;
 	font-weight: 700;
 	margin: 0 0 20px 0;
@@ -426,7 +426,6 @@ footer {
 
 .testimonials-4 .testimonial-panel {
 	position: relative;
-	padding-top: 100px;
 }
 
 .testimonials-4 .testimonial-icon {
@@ -630,7 +629,7 @@ footer {
 }
 
 .blog .entry .entry-content .entry-meta {
-	color: #999999;
+	color: #ffffff;
 	font-family: 'Rubik', sans-serif;
 	font-size: 1rem;
 	font-weight: 400;
@@ -639,7 +638,7 @@ footer {
 }
 
 .blog .entry .entry-content h3 {
-	color: #2c3e50;
+	color: #ffffff;
 	font-family: 'Rubik', sans-serif;
 	font-size: 20px;
 	font-weight: 700;
@@ -895,4 +894,12 @@ footer {
   .footer-contents {
     flex-direction: column;
   }
+}
+
+.blog	h3 {
+		color: white;
+}
+
+.blog .entry-meta span {
+	color: grey;
 }

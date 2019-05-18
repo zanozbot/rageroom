@@ -78,17 +78,17 @@
           <div class="col-xs-12 col-sm-12 col-md-12">
             <div class="hero-content">
               <h1><i class="icon-rageroom"></i></h1>
-              <p>Ogromno kladivo in soba polna predmetov, prepuščenih na tvojo nemilost. <br />Pridi, <span
+              <p>Ogromno kladivo in soba polna predmetov, prepuščenih na tvojo nemilost. Pridi, <span
                   class="focus dark">razbijaj</span> in se zabavaj!
                 <div class="form-action">
-                  <form action="https://rageroom.us20.list-manage.com/subscribe/post" method="POST">
+                  <form onsubmit="subscribe(event);">
                     <input type="hidden" name="u" value="5e1a0fcb535c257a250086ba5">
                     <input type="hidden" name="id" value="5d017def04">
                     <input type="text" class="form-control" name="MERGE0" id="MERGE0" placeholder="Tvoj email*">
-                    <button type="submit" class="btn btn-primary">OBVESTI ME O ODPRTJU</button>
+                    <button type="submit" class="btn btn-primary">OBVESTI ME</button>
                   </form>
                 </div>
-                <p class="email-clar">*Pusti nam svoj email, da te obvestimo takoj, ko se odpre prvi RAGE Room.
+                <p class="email-clar">*Pusti nam svoj email, da te obvestimo o odprtju in drugih dogajanjih RAGE Rooma.
                 </p>
             </div>
           </div><!-- .col-md-12 end -->
@@ -169,16 +169,16 @@
     </section><!-- #media5 end -->
     <!-- Testimonials#4
 ============================================= -->
-    <section id="testimonials4" class="testimonials testimonials-4 bg-gray pb-0">
+    <section id="testimonials4" class="testimonials testimonials-4 bg-gray">
       <div class="container">
         <div class="row">
           <div class="col-xs-12 col-sm-12 col-md-12">
             <!-- Testimonial #1 -->
             <div class="testimonial-panel">
-              <div class="testimonial-icon"><i class="fa fa-quote-left"></i></div>
+              <div class="testimonial-icon"><i class="icon-quote-left"></i></div>
               <div class="testimonial-body">
                 <div class="testimonial-content">
-                  <p>Tu bi lahko imeli kako izjavo iz Startup:Vikenda :)</p>
+                  <p>Tu bi lahko bil quote, če bi ga imeli.</p>
                 </div>
                 <div class="testimonial-meta">
                   <h4>Študent EF</h4>
@@ -201,11 +201,14 @@
     <!-- Blog#1
 ============================================= -->
     <section id="partnerji" class="blog blog-1 bg-gray">
-      <div class="container">
+        <div class="bg-section">
+          <img src="assets/images/bg-2.jpg" alt="Kaj je RAGE Room" />
+        </div>
+        <div class="container">
         <div class="row">
           <div class="col-xs-12 col-sm-12 col-md-12">
             <div class="partner-heading text-center">
-              <h3>NOVICE</h3>
+              <h3>KAJ SE DOGAJA?</h3>
             </div>
           </div><!-- .col-md-12 end -->
         </div><!-- .row end -->
@@ -220,7 +223,7 @@
                 <div class="entry-meta">
                   <span>DOGODEK</span>
                 </div>
-                <h3>RAGE Room Open Air</h3>
+                <h4>RAGE Room Open Air</h4>
                 <p>Ideja se je začela s Startup:Vikendom, organiziranim s strani EF in LUI. Tam smo izvedli svoj prvi
                   dogodek, kjer so udeleženci lahko razbijali in se zabavali na prostem.</p>
               </div><!-- .entry-content end -->
@@ -236,7 +239,7 @@
                 <div class="entry-meta">
                   <span>STRATEŠKI PARTNER</span>
                 </div>
-                <h3>LUI - Ljubljanski Univerzitetni Inkubator</h3>
+                <h4>LUI - Ljubljanski Univerzitetni Inkubator</h4>
                 <p>Kmalu je svoje zanimanje za projekt izrazil tudi LUI. Inkubator, ki nam bo pomagal razbiti idejo od
                   njenih povojev, do prve realizirane sobe in še več.</p>
               </div><!-- .entry-content end -->
