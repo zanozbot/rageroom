@@ -81,11 +81,11 @@
               <p>Ogromno kladivo in soba polna predmetov, prepuščenih na tvojo nemilost. <br />Pridi, <span
                   class="focus dark">razbijaj</span> in se zabavaj!
                 <div class="form-action">
-                  <form action="https://rageroom.us20.list-manage.com/subscribe/post" method="POST">
+                  <form onsubmit="subscribe(event);">
                     <input type="hidden" name="u" value="5e1a0fcb535c257a250086ba5">
                     <input type="hidden" name="id" value="5d017def04">
                     <input type="text" class="form-control" name="MERGE0" id="MERGE0" placeholder="Tvoj email*">
-                    <button type="submit" class="btn btn-primary">OBVESTI ME O ODPRTJU</button>
+                    <button type="submit" class="btn btn-primary">OBVEŠČAJ ME</button>
                   </form>
                 </div>
                 <p class="email-clar">*Pusti nam svoj email, da te obvestimo o odprtju in drugih dogajanjih RAGE Rooma.
@@ -187,10 +187,10 @@
                 <img class="img-responsive partner-img" src="assets/images/startup-vikend.png" alt="Startup:Vikend">
               </div><!-- .entry-img end -->
               <div class="entry-content">
+                <h4>RAGE Room Open Air</h4>
                 <div class="entry-meta">
                   <span>DOGODEK</span>
                 </div>
-                <h4>RAGE Room Open Air</h4>
                 <p>Ideja se je začela s Startup:Vikendom, organiziranim s strani EF in LUI. Tam smo izvedli svoj prvi
                   dogodek, kjer so udeleženci lahko razbijali in se zabavali na prostem.</p>
               </div><!-- .entry-content end -->
@@ -203,10 +203,10 @@
                   alt="LUI - Ljubljanski Univerzitetni Inkubator">
               </div><!-- .entry-img end -->
               <div class="entry-content">
+                <h4>LUI - Ljubljanski Univerzitetni Inkubator</h4>
                 <div class="entry-meta">
                   <span>STRATEŠKI PARTNER</span>
                 </div>
-                <h4>LUI - Ljubljanski Univerzitetni Inkubator</h4>
                 <p>Kmalu je svoje zanimanje za projekt izrazil tudi LUI. Inkubator, ki nam bo pomagal razbiti idejo od
                   njenih povojev, do prve realizirane sobe in še več.</p>
               </div><!-- .entry-content end -->
@@ -254,6 +254,7 @@
       {
         text: 'Ta spletna stran za svoje delovanje uporablja spletne piškotke.',
         duration: null,
+        actionTextColor: '#F7EC13',
         pos: 'bottom-center',
         actionText: 'Se strinjam'
       }
