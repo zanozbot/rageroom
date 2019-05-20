@@ -152,8 +152,9 @@ section {
 
 .sk-cube-grid .sk-cube {
 	width: 33%;
-	height: 33%;
-	background-color: #F7EC13;
+  height: 33%;
+  border-radius: 3px;
+	background-color: #161616;
 	float: left;
 	-webkit-animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
 	animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
