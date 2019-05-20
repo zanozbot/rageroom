@@ -1,6 +1,6 @@
 {
   "name": "rageroom-landing-page",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "RAGE Room landing page",
   "scripts": {
     "build": "npm run-script clean && cp -r assets dist && cp index.html dist",
