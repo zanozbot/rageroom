@@ -250,15 +250,20 @@
     gtag('js', new Date());
 
     gtag('config', 'UA-140401470-1');
-    Snackbar.show(
-      {
-        text: 'Ta spletna stran za svoje delovanje uporablja spletne piškotke.',
-        duration: null,
-        actionTextColor: '#F7EC13',
-        pos: 'bottom-center',
-        actionText: 'Strinjam se'
-      }
-    ); 
+
+    const consent = localStorage.getItem('rageroom-showed-consent');
+    if (consent == null) {
+      localStorage.setItem('rageroom-showed-consent', 'shown');
+      Snackbar.show(
+        {
+          text: 'Ta spletna stran za svoje delovanje uporablja spletne piškotke.',
+          duration: null,
+          actionTextColor: '#F7EC13',
+          pos: 'bottom-center',
+          actionText: 'Se strinjam'
+        }
+      );
+    }
   </script>
 </body>
 
