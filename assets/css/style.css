@@ -329,7 +329,7 @@ p {
 .btn-primary.active {
 	color: black;
 	background-image: none;
-	background-color: #72c044 !important;
+	background-color: #f0573b !important;
 	border: none !important;
 	box-shadow: 0 5px 25px rgba(0, 0, 0, 0.1);
 }
@@ -687,7 +687,7 @@ footer {
 }
 
 .popup-video > i:hover {
-  background-color: #72c044 !important;
+  background-color: #f0573b !important;
 }
 
 .hero-content > p.email-clar {
