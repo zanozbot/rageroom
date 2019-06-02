@@ -632,7 +632,8 @@ footer {
 }
 
 .hero-4 form #MERGE0 {
-	width: 370px;
+  width: 370px;
+  vertical-align: top;
 }
 
 .blog .entry {
